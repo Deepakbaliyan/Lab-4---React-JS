@@ -1,4 +1,4 @@
-# Lab-4---React-JS
+# JagdevSingh_ReactJS_Lab
 
 Problem Statement 
 Assume that you are sharing a flat with your friend or some other person and you share the various bills like cooking, electricity, Bike Maintenance(maybe), Rent, etc. Each time either of you will pay the amount. You are keeping note of the expenses and at the end of the period of sharing a flat, the person who spent an excess amount shall pay the other. All this process is done manually as on date.
@@ -13,11 +13,13 @@ Being a techie, you have observed this problem and thought of making the process
 6.	View the Add new Item Form separately with the react router dom.
 
 See the Image below for your reference
- 
 
- 
+![image](https://github.com/jagdevsinghdosanjh/JagdevSingh_ReactJS_Lab/assets/33898246/02575a99-5638-4882-be8d-3dd79fa5991b)
 
- 
+![image](https://github.com/jagdevsinghdosanjh/JagdevSingh_ReactJS_Lab/assets/33898246/3fd0fb28-ee00-420d-8ecd-3e34a59a4ff0)
+
+![image](https://github.com/jagdevsinghdosanjh/JagdevSingh_ReactJS_Lab/assets/33898246/2057d5f2-6e9d-488f-84ef-b33ed00bf0ad)
+
 
 
 Future Developments: 
@@ -27,9 +29,4 @@ Future Developments:
 4.	Restrict server update of previous month.
 	……
 	……
-
-Rubrics: 
-1.	Form validation with pushing data to server - 10 Marks
-2.	Retrieval of all the data from json server - 5 Marks
-3.	Responsive web page coding standards, GUI, use of react router - 5 Marks
 
